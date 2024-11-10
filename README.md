@@ -47,13 +47,13 @@ Me encuentro perfeccionando mis habilidades en DevOps con Docker y Kubernetes, m
 
 ## 🌐 Conecta conmigo
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/tu-usuario/"> 
+  <a href="https://www.linkedin.com/in/yadhir-software-developer/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
-  <a href="https://twitter.com/tu-usuario"> 
+  <a href="[https://twitter.com/tu-usuario](https://x.com/Yadhirisvan)"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
   </a> 
-  <a href="mailto:tu-email@correo.com"> 
+  <a href="yadhirisvan11@gmail.com"> 
     <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a> 
 </p>
