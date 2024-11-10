@@ -41,8 +41,8 @@ Me encuentro perfeccionando mis habilidades en DevOps con Docker y Kubernetes, m
 
 ## 📈 Estadísticas de GitHub
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Tus estadísticas de GitHub" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Streak de GitHub" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=YadhirIsvan&show_icons=true&theme=radical" alt="Tus estadísticas de GitHub" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YadhirIsvan&theme=radical" alt="Streak de GitHub" /> 
 </p>
 
 ## 🌐 Conecta conmigo
